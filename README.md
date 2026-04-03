@@ -6,3 +6,7 @@ We have an english version and a chinese version for this assigner. Please use t
 The english version is available in EN_version.py
 
 The chinese version is available in ZH_version.py
+
+---
+
+# Rules of Two Role Werewolf
